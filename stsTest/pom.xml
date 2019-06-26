@@ -9,13 +9,13 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>test</artifactId>
+	<artifactId>stsTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>test</name>
+	<name>stsTest</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
+	<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
 		<java.version>12</java.version>
 	</properties>
 
@@ -31,7 +31,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<!-- JSP -->
+				<!-- JSP -->
 	<dependency>
 		<groupId>javax.servlet</groupId>
 		<artifactId>javax.servlet-api</artifactId>
