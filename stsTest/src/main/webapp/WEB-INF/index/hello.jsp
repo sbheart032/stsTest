@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello
+hello ${name}의 ${id}
 </body>
 </html>
